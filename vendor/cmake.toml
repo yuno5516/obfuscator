@@ -1,0 +1,9 @@
+[subdir.zasm]
+[subdir.gtest]
+[subdir.linux-pe]
+[subdir.magic_enum]
+
+[fetch-content.resources]
+condition = "build-tests"
+git = "https://github.com/yuno5516/obfuscator-resources.git"
+tag = "e700be666074f6e21b6ed5920fd26289c6ed9d1f"
